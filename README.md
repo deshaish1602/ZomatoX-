@@ -37,7 +37,7 @@ The project focuses on **Exploratory Data Analysis (EDA)** to identify patterns 
 ---
 
 ## 📂 Project Structure
-
+```
 ZomatoX/
 │── data/               # Dataset files
 │── notebooks/          # Jupyter notebooks
@@ -46,7 +46,7 @@ ZomatoX/
 │── app.py              # Streamlit dashboard
 │── requirements.txt
 │── README.md
-
+```
 ---
 
 ## 📊 Key Insights
@@ -88,6 +88,8 @@ ZomatoX/
 ## 🙌 Author
 
 **Aishwarya Deshwal**
+```
 Data Science Undergraduate | ML & Analytics Enthusiast
+```
 
 ---
